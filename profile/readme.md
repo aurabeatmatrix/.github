@@ -1,6 +1,8 @@
-# Aura Beat Matrix
+![alt text](<Banner-Aura Beats Matrix.png>)
 
-Willkommen bei **Aura Beat Matrix**! 
+# © Aura Beat Matrix
+
+Willkommen bei **© Aura Beat Matrix**! 
 
 ## 🚀 Mission
 
